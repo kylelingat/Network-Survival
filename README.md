@@ -1,5 +1,4 @@
 # Network-Survival
-## Description
 
 **1. System Info Tool** - This tool will grab the hostname of the target machine.
   - This tool will need to use the socket module.
